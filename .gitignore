@@ -1,4 +1,4 @@
 *.json
 Dockerfile
 docker-compose.yaml
-database_data
+database_data/
