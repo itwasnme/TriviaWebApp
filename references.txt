@@ -1,0 +1,26 @@
+References List:
+
+For starting with bootstrap:
+https://cs4640.cs.virginia.edu/lectures/examples/bootstrap.html 
+
+For creating bootstrap grids:
+https://getbootstrap.com/docs/4.0/layout/grid/
+
+Creating a transparent button:
+https://stackoverflow.com/questions/38493785/make-bootstrap-button-transparent
+
+For removing underlines from hrefs:
+https://www.w3schools.com/css/css_link.asp
+
+For bootstrap colors:
+https://getbootstrap.com/docs/4.0/utilities/colors/
+
+Lots of php things:
+https://www.php.net/docs.php
+https://cs4640.cs.virginia.edu
+
+Learning about subqueries:
+https://www.dofactory.com/sql/subquery
+
+sql Row number:
+https://docs.microsoft.com/en-us/sql/t-sql/functions/row-number-transact-sql?view=sql-server-ver15
